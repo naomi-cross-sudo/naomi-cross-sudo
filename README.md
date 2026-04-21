@@ -1,18 +1,19 @@
-# What's up 🚀
+# Hi there 👋
 
-I'm **naomi-cross-sudo**, a coffee-driven developer.
+I'm **naomi-cross-sudo**, a javascript writer.
 
 ## About
 
-- 🎨 Code is poetry
-- 💬 Ask me anything about code
-- 🛠️ Build small, ship often
-- 🌟 Open source enthusiast
+- 👯 Looking to collaborate on open source
+- 🎯 Goal: ship something useful every week
+- 🧠 Lifelong learner
+- 🔭 Currently working on personal side projects
+- 📚 Reading the source is the best documentation
 
 ## Tech
 
-`PHP` `Python` `Linux`
+`C#` `Bash` `Kotlin` `PostgreSQL`
 
 ---
 
-_Music while coding._
+_Always learning._
