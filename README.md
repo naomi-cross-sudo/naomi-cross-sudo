@@ -1,17 +1,19 @@
-# Hello, world 🌍
+# Welcome to my GitHub 🎉
 
-I'm **naomi-cross-sudo**, a automation engineer.
+I'm **naomi-cross-sudo**, a code monkey.
 
 ## About
 
-- ⚡ Fun fact: I write code while drinking coffee
-- 🔭 Currently working on personal side projects
-- 🌟 Open source enthusiast
+- 🚀 Performance matters
+- 👯 Looking to collaborate on open source
+- 📫 Reach me through GitHub
+- 🐛 Bug hunter by night
+- 🛠️ Build small, ship often
 
 ## Tech
 
-`Python` `Kotlin` `React` `Rails`
+`FastAPI` `Haskell` `Gin` `Bash`
 
 ---
 
-_Less is more._
+_Long walks while debugging._
