@@ -1,19 +1,18 @@
-# Welcome to my GitHub 🎉
+# What's up 🚀
 
-I'm **naomi-cross-sudo**, a code monkey.
+I'm **naomi-cross-sudo**, a coffee-driven developer.
 
 ## About
 
-- 🚀 Performance matters
-- 👯 Looking to collaborate on open source
-- 📫 Reach me through GitHub
-- 🐛 Bug hunter by night
+- 🎨 Code is poetry
+- 💬 Ask me anything about code
 - 🛠️ Build small, ship often
+- 🌟 Open source enthusiast
 
 ## Tech
 
-`FastAPI` `Haskell` `Gin` `Bash`
+`PHP` `Python` `Linux`
 
 ---
 
-_Long walks while debugging._
+_Music while coding._
