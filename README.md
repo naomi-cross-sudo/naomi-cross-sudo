@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, world 🌍
 
-<!--
-**naomi-cross-sudo/naomi-cross-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **naomi-cross-sudo**, a automation engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I write code while drinking coffee
+- 🔭 Currently working on personal side projects
+- 🌟 Open source enthusiast
+
+## Tech
+
+`Python` `Kotlin` `React` `Rails`
+
+---
+
+_Less is more._
