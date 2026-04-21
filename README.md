@@ -1,19 +1,17 @@
-# Hi there 👋
+# G'day mate 🦘
 
-I'm **naomi-cross-sudo**, a javascript writer.
+I'm **naomi-cross-sudo**, a solo developer.
 
 ## About
 
-- 👯 Looking to collaborate on open source
+- 🤔 Exploring new technologies
+- ⚡ Fun fact: I write code while drinking coffee
 - 🎯 Goal: ship something useful every week
-- 🧠 Lifelong learner
-- 🔭 Currently working on personal side projects
-- 📚 Reading the source is the best documentation
 
 ## Tech
 
-`C#` `Bash` `Kotlin` `PostgreSQL`
+`Swift` `SolidJS` `C#` `WebGL` `Elasticsearch`
 
 ---
 
-_Always learning._
+_Coffee addict._
